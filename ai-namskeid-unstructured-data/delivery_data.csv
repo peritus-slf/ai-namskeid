@@ -1,0 +1,29 @@
+Date,Product_ID,Product_Name,Category,Order_Quantity,Unit_Price,Delivery_Location,Distance_KM,Weather_Condition,Temperature,Road_Condition,Actual_Delivery_Days,Expected_Delivery_Days,Holiday_Period,Season,Storage_Temp,Current_Stock,Warehouse_Capacity,Supplier_Lead_Time,Market_Demand,Last_Year_Sales,Previous_Month_Sales,Returns,Spoilage,Competition_Price,Marketing_Event,Transport_Type
+2023-01-05,PRD001,Organic Muesli,Breakfast,1200,3.45,Ísafjörður,455,Snow,-5,Difficult,8,5,New Year,Winter,Ambient,450,2000,21,High,980,1100,2,0,3.65,None,Truck
+2023-01-12,PRD001,Organic Muesli,Breakfast,800,3.45,Ísafjörður,455,Heavy Snow,-8,Closed,12,5,None,Winter,Ambient,220,2000,21,Medium,850,980,0,0,3.65,None,Truck
+2023-01-19,PRD001,Organic Muesli,Breakfast,950,3.45,Ísafjörður,455,Snow,-6,Difficult,7,5,None,Winter,Ambient,180,2000,21,Medium,920,850,1,0,3.65,None,Truck
+2023-02-02,PRD001,Organic Muesli,Breakfast,1100,3.45,Ísafjörður,455,Snow,-4,Fair,6,5,None,Winter,Ambient,320,2000,21,High,1050,950,0,0,3.60,Winter Sale,Truck
+2023-02-16,PRD001,Organic Muesli,Breakfast,1300,3.45,Ísafjörður,455,Light Snow,-2,Fair,5,5,None,Winter,Ambient,280,2000,21,High,1150,1100,3,0,3.60,Winter Sale,Truck
+2023-03-02,PRD001,Organic Muesli,Breakfast,1150,3.45,Ísafjörður,455,Rain,2,Good,5,5,None,Spring,Ambient,350,2000,21,Medium,1000,1300,1,0,3.55,None,Truck
+2023-03-16,PRD001,Organic Muesli,Breakfast,1000,3.45,Ísafjörður,455,Rain,4,Good,5,5,None,Spring,Ambient,420,2000,21,Medium,950,1150,0,0,3.55,None,Truck
+2023-03-30,PRD001,Organic Muesli,Breakfast,950,3.45,Ísafjörður,455,Rain,6,Good,5,5,Easter,Spring,Ambient,380,2000,21,Medium,900,1000,2,0,3.55,Easter Sale,Truck
+2023-04-13,PRD001,Organic Muesli,Breakfast,900,3.45,Ísafjörður,455,Rain,8,Good,5,5,None,Spring,Ambient,400,2000,21,Low,850,950,1,0,3.50,None,Truck
+2023-04-27,PRD001,Organic Muesli,Breakfast,850,3.45,Ísafjörður,455,Mild,10,Good,5,5,None,Spring,Ambient,360,2000,21,Low,800,900,0,0,3.50,None,Truck
+2023-05-11,PRD001,Organic Muesli,Breakfast,800,3.45,Ísafjörður,455,Mild,12,Good,5,5,None,Spring,Ambient,320,2000,21,Low,750,850,1,0,3.50,Spring Sale,Truck
+2023-05-25,PRD001,Organic Muesli,Breakfast,750,3.45,Ísafjörður,455,Mild,14,Good,5,5,None,Spring,Ambient,280,2000,21,Low,700,800,0,0,3.50,Spring Sale,Truck
+2023-06-08,PRD001,Organic Muesli,Breakfast,700,3.45,Ísafjörður,455,Mild,16,Good,5,5,None,Summer,Ambient,250,2000,21,Low,650,750,1,0,3.45,None,Truck
+2023-06-22,PRD001,Organic Muesli,Breakfast,680,3.45,Ísafjörður,455,Mild,18,Good,5,5,None,Summer,Ambient,220,2000,21,Low,630,700,0,0,3.45,None,Truck
+2023-07-06,PRD001,Organic Muesli,Breakfast,650,3.45,Ísafjörður,455,Warm,20,Good,5,5,Summer Holiday,Summer,Ambient,200,2000,21,Low,600,680,1,0,3.45,Summer Sale,Truck
+2023-07-20,PRD001,Organic Muesli,Breakfast,620,3.45,Ísafjörður,455,Warm,22,Good,5,5,Summer Holiday,Summer,Ambient,180,2000,21,Low,580,650,0,0,3.45,Summer Sale,Truck
+2023-08-03,PRD001,Organic Muesli,Breakfast,700,3.45,Ísafjörður,455,Mild,20,Good,5,5,None,Summer,Ambient,150,2000,21,Medium,650,620,1,0,3.45,None,Truck
+2023-08-17,PRD001,Organic Muesli,Breakfast,800,3.45,Ísafjörður,455,Mild,18,Good,5,5,None,Summer,Ambient,180,2000,21,Medium,750,700,0,0,3.45,None,Truck
+2023-08-31,PRD001,Organic Muesli,Breakfast,900,3.45,Ísafjörður,455,Mild,16,Good,5,5,None,Summer,Ambient,220,2000,21,Medium,850,800,2,0,3.50,Back to School,Truck
+2023-09-14,PRD001,Organic Muesli,Breakfast,1000,3.45,Ísafjörður,455,Mild,14,Good,5,5,None,Fall,Ambient,280,2000,21,High,950,900,1,0,3.50,Back to School,Truck
+2023-09-28,PRD001,Organic Muesli,Breakfast,1100,3.45,Ísafjörður,455,Rain,12,Fair,6,5,None,Fall,Ambient,320,2000,21,High,1050,1000,0,0,3.50,None,Truck
+2023-10-12,PRD001,Organic Muesli,Breakfast,1200,3.45,Ísafjörður,455,Rain,8,Fair,6,5,None,Fall,Ambient,380,2000,21,High,1150,1100,2,0,3.55,None,Truck
+2023-10-26,PRD001,Organic Muesli,Breakfast,1300,3.45,Ísafjörður,455,Snow,4,Difficult,7,5,None,Fall,Ambient,420,2000,21,High,1250,1200,1,0,3.55,Fall Sale,Truck
+2023-11-09,PRD001,Organic Muesli,Breakfast,1400,3.45,Ísafjörður,455,Snow,0,Difficult,8,5,None,Winter,Ambient,450,2000,21,High,1350,1300,3,0,3.60,Fall Sale,Truck
+2023-11-23,PRD001,Organic Muesli,Breakfast,1500,3.45,Ísafjörður,455,Heavy Snow,-2,Difficult,9,5,None,Winter,Ambient,480,2000,21,High,1450,1400,2,0,3.60,None,Truck
+2023-12-07,PRD001,Organic Muesli,Breakfast,1600,3.45,Ísafjörður,455,Heavy Snow,-4,Difficult,10,5,None,Winter,Ambient,520,2000,21,High,1550,1500,4,0,3.65,Holiday Sale,Truck
+2023-12-21,PRD001,Organic Muesli,Breakfast,1700,3.45,Ísafjörður,455,Blizzard,-6,Closed,12,5,Christmas,Winter,Ambient,550,2000,21,High,1650,1600,5,0,3.65,Holiday Sale,Truck
+

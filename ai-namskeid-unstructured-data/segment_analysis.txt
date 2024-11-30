@@ -1,0 +1,90 @@
+# Customer Segment Analysis - Organic Muesli Market
+
+## Health-Conscious Professionals
+- Demographics: 25-40 years
+- Income: Above average
+- Characteristics:
+  * Quality-focused
+  * Willing to pay premium
+  * Brand conscious
+  * Online research before purchase
+- Purchase Patterns:
+  * Regular monthly purchases
+  * Prefer premium packaging
+  * Strong brand loyalty
+- Market Share: 35%
+
+## Active Families
+- Demographics: Parents 30-45 with children
+- Income: Middle to upper-middle
+- Characteristics:
+  * Value for money focused
+  * Bulk buying preference
+  * Health conscious
+  * Convenience important
+- Purchase Patterns:
+  * Bulk purchases
+  * Price sensitive
+  * Regular consumption
+- Market Share: 25%
+
+## Health Institution Suppliers
+- Type: B2B customers
+- Characteristics:
+  * Volume purchases
+  * Contract-based
+  * Quality certifications important
+  * Stable ordering patterns
+- Purchase Patterns:
+  * Regular large orders
+  * Long-term contracts
+  * Specific delivery requirements
+- Market Share: 20%
+
+## Premium Organic Shoppers
+- Demographics: 40-65 years
+- Income: High
+- Characteristics:
+  * Strongly eco-conscious
+  * Quality-focused
+  * Less price sensitive
+  * Organic certification priority
+- Purchase Patterns:
+  * Small but frequent purchases
+  * Specialty store preference
+  * Seasonal buying
+- Market Share: 15%
+
+## Budget Health Consumers
+- Demographics: 20-30 years
+- Income: Lower to middle
+- Characteristics:
+  * Price conscious
+  * Health interested
+  * Brand flexible
+  * Bulk buying when on sale
+- Purchase Patterns:
+  * Irregular purchases
+  * Sale-driven buying
+  * Large pack preference
+- Market Share: 5%
+
+## Key Insights
+1. Purchase Drivers:
+   - Health consciousness
+   - Price sensitivity
+   - Environmental concern
+   - Convenience
+
+2. Channel Preferences:
+   - Supermarkets: 45%
+   - Health food stores: 25%
+   - Online: 20%
+   - Bulk stores: 10%
+
+3. Growth Trends:
+   - Health-Conscious Professionals: Growing fastest
+   - Active Families: Stable growth
+   - Institution Suppliers: Steady
+   - Premium Organic: Slight growth
+   - Budget Segment: Fluctuating

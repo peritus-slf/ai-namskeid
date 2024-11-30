@@ -1,0 +1,17 @@
+Competitor,Product_Type,Brand_Name,Package_Size,Unit_Price_EUR,Market_Segment,Origin,Organic_Cert,Quality_Rating,Store_Type,Date_Recorded
+NordicHealth,Organic Muesli,Nature's Best,500g,3.75,Premium,Sweden,Yes,4.5,Supermarket,2023-01-15
+NordicHealth,Organic Muesli,Nature's Best,500g,3.85,Premium,Sweden,Yes,4.5,Supermarket,2023-04-15
+NordicHealth,Organic Muesli,Nature's Best,500g,3.95,Premium,Sweden,Yes,4.5,Supermarket,2023-07-15
+NordicHealth,Organic Muesli,Nature's Best,500g,4.00,Premium,Sweden,Yes,4.5,Supermarket,2023-10-15
+GreenFields,Organic Muesli,Bio Morning,500g,3.25,Standard,Denmark,Yes,4.0,Discount,2023-01-15
+GreenFields,Organic Muesli,Bio Morning,500g,3.35,Standard,Denmark,Yes,4.0,Discount,2023-04-15
+GreenFields,Organic Muesli,Bio Morning,500g,3.45,Standard,Denmark,Yes,4.0,Discount,2023-07-15
+GreenFields,Organic Muesli,Bio Morning,500g,3.50,Standard,Denmark,Yes,4.0,Discount,2023-10-15
+LocalBio,Organic Muesli,Island Harvest,450g,3.95,Premium Local,Iceland,Yes,4.8,Specialty,2023-01-15
+LocalBio,Organic Muesli,Island Harvest,450g,4.15,Premium Local,Iceland,Yes,4.8,Specialty,2023-04-15
+LocalBio,Organic Muesli,Island Harvest,450g,4.25,Premium Local,Iceland,Yes,4.8,Specialty,2023-07-15
+LocalBio,Organic Muesli,Island Harvest,450g,4.35,Premium Local,Iceland,Yes,4.8,Specialty,2023-10-15
+BulkFoods,Organic Muesli,Basic Bio,1kg,5.95,Budget Bulk,Poland,Yes,3.8,Wholesale,2023-01-15
+BulkFoods,Organic Muesli,Basic Bio,1kg,6.15,Budget Bulk,Poland,Yes,3.8,Wholesale,2023-04-15
+BulkFoods,Organic Muesli,Basic Bio,1kg,6.35,Budget Bulk,Poland,Yes,3.8,Wholesale,2023-07-15
+BulkFoods,Organic Muesli,Basic Bio,1kg,6.55,Budget Bulk,Poland,Yes,3.8,Wholesale,2023-10-15

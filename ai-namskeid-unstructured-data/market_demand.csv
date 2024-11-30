@@ -1,0 +1,13 @@
+Month,Total_Market_Volume_Kg,Growth_YoY_Percent,Consumer_Confidence_Index,Average_Market_Price_EUR,Major_Events,Weather_Impact,Tourism_Level,Marketing_Intensity
+Jan-23,25000,5.2,102,3.65,New Year,High,Low,Medium
+Feb-23,23500,4.8,101,3.68,Winter Sales,High,Low,High
+Mar-23,24000,4.5,101,3.70,None,Medium,Low,Medium
+Apr-23,22000,3.9,100,3.75,Easter,Low,Medium,Medium
+May-23,20000,3.5,99,3.78,None,Low,Medium,Low
+Jun-23,18500,2.8,98,3.80,Summer Start,Low,High,Low
+Jul-23,17000,2.5,97,3.82,Peak Tourism,Low,High,Medium
+Aug-23,19000,3.0,98,3.85,Back to School,Low,High,High
+Sep-23,21000,3.8,99,3.88,None,Low,Medium,Medium
+Oct-23,23000,4.2,100,3.90,Fall Season,Medium,Low,Medium
+Nov-23,24500,4.9,101,3.92,Early Winter,High,Low,High
+Dec-23,26000,5.5,102,3.95,Holiday Season,High,Low,High

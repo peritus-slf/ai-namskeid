@@ -1,0 +1,18 @@
+Month,Category,Budgeted_Amount_EUR,Actual_Amount_EUR,Variance_EUR,Variance_Percent,Notes
+Jan-23,Sales Revenue,4140,4140,0,0%,On target
+Jan-23,COGS,2484,2484,0,0%,As expected
+Jan-23,Shipping,400,450,-50,-12.5%,Weather impact
+Jan-23,Storage,350,380,-30,-8.6%,Higher volume
+Jan-23,Insurance,100,120,-20,-20%,Rate increase
+Jan-23,Marketing,150,150,0,0%,As planned
+Jan-23,Staff,2800,2800,0,0%,Fixed cost
+Jan-23,Other Operating,425,450,-25,-5.9%,Misc expenses
+Feb-23,Sales Revenue,2760,2760,0,0%,Seasonal low
+Feb-23,COGS,1656,1656,0,0%,As expected
+Feb-23,Shipping,350,380,-30,-8.6%,Weather impact
+Feb-23,Storage,300,320,-20,-6.7%,Higher days
+Feb-23,Insurance,90,95,-5,-5.6%,Rate adjustment
+Feb-23,Marketing,150,150,0,0%,As planned
+Feb-23,Staff,2800,2800,0,0%,Fixed cost
+Feb-23,Other Operating,400,430,-30,-7.5%,Misc expenses
+[Continue pattern for all months...]
